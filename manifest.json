@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-alternative-checkbox-changer",
+	"name": "Alternative Checkbox Changer",
+	"version": "0.1",
+	"minAppVersion": "0.15.0",
+	"description": "Alter those alternate checkboxes by hotkeys.",
+	"author": "Farhad Ghamsari",
+	"authorUrl": "https://github.com/FarhadGSRX",
+	"isDesktopOnly": false
+}
