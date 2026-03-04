@@ -1,5 +1,5 @@
 {
-	"id": "obsidian-alternative-checkbox-changer",
+	"id": "alternative-checkbox-changer",
 	"name": "Alternative Checkbox Changer",
 	"version": "0.1",
 	"minAppVersion": "0.15.0",
@@ -8,3 +8,4 @@
 	"authorUrl": "https://github.com/FarhadGSRX",
 	"isDesktopOnly": false
 }
+
